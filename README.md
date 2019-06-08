@@ -1,17 +1,6 @@
 # EvilBot
 An Evil Discord Bot made by EvilChain
 
-# Quick links
-1. [Installation](#installation)
-2. [Wiki](#wiki)
-3. [Security](#security)
-4. [Issues](#issues)
-5. [Data](#data)
-6. [Contribute](#contribute)
-7. [Contact](#contact)
-8. [License](#license)
-
-
 # Installation
 * See [Wiki](#wiki)
 
