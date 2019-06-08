@@ -16,16 +16,16 @@ An Evil Discord Bot made by EvilChain
 * See [Wiki](#wiki)
 
 # Wiki
-* [Wiki](https://github.com/evilchainbot/BypassBot/wiki/)
+* Bot Wiki [Wiki](https://github.com/evilchainbot/BypassBot/wiki/)
 
 # Security
-* [Security](https://github.com/evilchainbot/BypassBot/network/alerts)
+* Security Informations [Security](https://github.com/evilchainbot/BypassBot/network/alerts)
 
 # Issues
-* [Security](https://github.com/evilchainbot/BypassBot/issues)
+* Bot Issues [Security](https://github.com/evilchainbot/BypassBot/issues)
 
 # Data
-* [Data](https://github.com/evilchainbot/BypassBot/pulse)
+* Bot Data [Data](https://github.com/evilchainbot/BypassBot/pulse)
 
 # Contribute
 Show your support by 🌟 the project!!
