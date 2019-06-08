@@ -57,7 +57,7 @@ After you copied the token proceed to the next step.
 
 ![](https://media.discordapp.net/attachments/586357375015976996/586783993501057024/2.png)
 
-7. Open the possumbot folder and navigate to `botsettings.json` open it using a text editor like notepad for windows or textedit for mac.
+7. Open the BypassBot directory and navigate to `settings.json` open it using a text editor.
 
 It should look like this
 
