@@ -25,7 +25,7 @@
 
 * !leaveserver - to make the bot leave the server.
 
-# Dependencies.
+# Requirements
 * Node v10.13.0 or higher , you can get  it [here](https://nodejs.org/en/download/)
 
 # Installation
@@ -42,6 +42,8 @@
 
 If it doesnt work make sure you have node.js installed you can install it [here.](https://nodejs.org/en/download/)
 If it still doesnt work restart your console.
+
+# BOT Setup
 
 6. Open your browser and go to [discord.com/developers](https://discordapp.com/developers/applications/)
 And create a new application and customize it to your likings.
