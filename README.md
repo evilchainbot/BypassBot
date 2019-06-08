@@ -2,43 +2,30 @@
 An Evil Discord Bot made by EvilChain
 
 # Quick links
-1. [Features](#features)
-2. [Commands](#commands)
-3. [Requirements](#requirements)
-4. [Installation](#installation)
-5. [Bot Setup](#botsetup)
+5. [Installation](#installation)
 5. [Wiki](#wiki)
-5. [Contribute](#contribute)
-5. [Contribute](#contribute)
+5. [Security](#security)
+5. [Issues](#issues)
+5. [Data](#data)
 5. [Contribute](#contribute)
 5. [Contact](#contact)
 5. [License](#license)
 
 
-# Features
-* `Get full control of the server.`
+# Installation
+* See [Wiki](#wiki)
 
-* `Ban everyone on the server.`
+# Wiki
+* [Wiki](https://github.com/evilchainbot/BypassBot/wiki/)
 
-* `Kick everyone on the server.`
+# Security
+* [Security](https://github.com/evilchainbot/BypassBot/network/alerts)
 
-* `Mute everyone on the server.`
+# Issues
+* [Security](https://github.com/evilchainbot/BypassBot/issues)
 
-* `Leave the Server!`
-
-* `More features coming soon!`
-
-# Commands
-
-* $cuadmin - to get administrator perms.
-
-* $cuban - to ban everyone on the server.
-
-* $cukick - to kick everyone on the server.
-
-* $cumute - to mute everyone on the server.
-
-* !leaveserver - to make the bot leave the server.
+# Data
+* [Data](https://github.com/evilchainbot/BypassBot/pulse)
 
 # Contribute
 Show your support by 🌟 the project!!
