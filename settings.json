@@ -1,4 +1,4 @@
 {
-	"token": "BOT-TOKEN-HERE", //Your Bot TOKEN
-	"prefix": "$" //Pick any prefix you want!
+	"token": "BOT-TOKEN-HERE",
+	"prefix": "!"
 }
