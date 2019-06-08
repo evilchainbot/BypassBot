@@ -47,7 +47,7 @@ And create a new application and customize it to your likings.
 
 You should see something like this.
 
-![You should see something like this.]<blockquote class="imgur-embed-pub" lang="en" data-id="a/cNcs5q0" data-context="false" ><a href="//imgur.com/a/cNcs5q0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![You should see something like this.](https://media.discordapp.net/attachments/586357375015976996/586783334508658689/2018-11-11_21.14.15.png?width=347&height=300)
 
 Navigate to the bot settings
 
