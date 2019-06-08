@@ -26,22 +26,19 @@
 * !leaveserver - to make the bot leave the server.
 
 # Requirements
-* Node v10.13.0 or higher , you can get  it [here](https://nodejs.org/en/download/)
+* Node v10.13.0 or higher [NodeJs](https://nodejs.org/en/download/)
 
 # Installation
 
 1. Git clone https://github.com/evilchainbot/BypassBot.git or Download and un-zip the repo.
 
-2. Install node.js you can get it [here.](https://nodejs.org/en/download/)
+2. Install [NodeJs](https://nodejs.org/en/download/)
 
 3. Open terminal.
 
 4. Go to BypassBot Directory.
 
 5. Type `npm install` into the console and wait for it to install the dependencies.
-
-If it doesnt work make sure you have node.js installed you can install it [here.](https://nodejs.org/en/download/)
-If it still doesnt work restart your console.
 
 # BOT Setup
 
@@ -50,7 +47,7 @@ And create a new application and customize it to your likings.
 
 You should see something like this.
 
-![You should see something like this.](https://media.discordapp.net/attachments/508571077958434839/511258005937979392/2018-11-11_21.14.15.png)
+![You should see something like this.](https://imgur.com/a/cNcs5q0)
 
 Navigate to the bot settings
 
