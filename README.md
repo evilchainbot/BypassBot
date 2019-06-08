@@ -1,6 +1,4 @@
-![](https://user-images.githubusercontent.com/8159670/48314121-8c516100-e5cd-11e8-8874-04c0dc1cc4bc.png)
-
-A bot that will allow you to "hack" ANY discord server.
+### An EVILBOT by EVILCHAIN
 
 # Features
 * `Get full control of the server.`
@@ -32,13 +30,11 @@ A bot that will allow you to "hack" ANY discord server.
 
 # Installation
 
-# Follow These Steps!
-
 1. Git clone https://github.com/evilchainbot/BypassBot.git or Download and un-zip the repo.
 
 2. Install node.js you can get it [here.](https://nodejs.org/en/download/)
 
-3. Open cmd or terminal.
+3. Open terminal.
 
 4. Go to BypassBot Directory.
 
