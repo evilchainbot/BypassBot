@@ -1,4 +1,19 @@
-### An EVILBOT by EVILCHAIN
+# EvilBot
+An Evil Discord Bot made by EvilChain
+
+# Quick links
+1. [Features](#features)
+2. [Commands](#commands)
+3. [Requirements](#requirements)
+4. [Installation](#installation)
+5. [Bot Setup](#botsetup)
+5. [Wiki](#wiki)
+5. [Contribute](#contribute)
+5. [Contribute](#contribute)
+5. [Contribute](#contribute)
+5. [Contact](#contact)
+5. [License](#license)
+
 
 # Features
 * `Get full control of the server.`
@@ -40,7 +55,7 @@
 
 5. Type `npm install` into the console and wait for it to install the dependencies.
 
-# BOT Setup
+# BotSetup
 
 6. Open your browser and go to [Discord Developers](https://discordapp.com/developers/applications/)
 And create a new application and customize it to your likings.
@@ -72,7 +87,13 @@ Type `node bot.js` into the console.
 The bot should now be running.
 
 10. A link will be generated in the console use it for inviting the bot.
------
 
-### Contact
-# Discord: hitman#7189
+# Contribute
+Show your support by 🌟 the project!!
+Feel free to contribute!
+
+# Contact
+Discord: hitman#7189
+
+# License
+* MIT License (https://github.com/evilchainbot/BypassBot/blob/master/LICENSE)
