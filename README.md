@@ -2,14 +2,14 @@
 An Evil Discord Bot made by EvilChain
 
 # Quick links
-5. [Installation](#installation)
-5. [Wiki](#wiki)
-5. [Security](#security)
-5. [Issues](#issues)
+1. [Installation](#installation)
+2. [Wiki](#wiki)
+3. [Security](#security)
+4. [Issues](#issues)
 5. [Data](#data)
-5. [Contribute](#contribute)
-5. [Contact](#contact)
-5. [License](#license)
+6. [Contribute](#contribute)
+7. [Contact](#contact)
+8. [License](#license)
 
 
 # Installation
