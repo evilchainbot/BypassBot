@@ -42,7 +42,7 @@
 
 # BOT Setup
 
-6. Open your browser and go to [discord.com/developers](https://discordapp.com/developers/applications/)
+6. Open your browser and go to [Discord Developers](https://discordapp.com/developers/applications/)
 And create a new application and customize it to your likings.
 
 You should see something like this.
