@@ -47,7 +47,7 @@ And create a new application and customize it to your likings.
 
 You should see something like this.
 
-![You should see something like this.](https://media.discordapp.net/attachments/586357375015976996/586783334508658689/2018-11-11_21.14.15.png?width=347&height=300)
+![You should see something like this.](https://cdn.discordapp.com/attachments/586357375015976996/586783832733384704/1.png)
 
 Navigate to the bot settings
 
@@ -55,23 +55,23 @@ And copy the token.
 
 After you copied the token proceed to the next step.
 
-![](https://cdn.discordapp.com/attachments/508571077958434839/511259113712517130/2018-11-11_21.21.00.png)
+![](https://media.discordapp.net/attachments/586357375015976996/586783993501057024/2.png)
 
 7. Open the possumbot folder and navigate to `botsettings.json` open it using a text editor like notepad for windows or textedit for mac.
 
 It should look like this
 
-![](https://media.discordapp.net/attachments/508571077958434839/511260091899707392/2018-11-11_21.11.08.png)
+![](https://media.discordapp.net/attachments/586357375015976996/586784223462162442/3.png?width=400&height=122)
 
-8. Paste your token into the token field. Dont remove the "".
+8. Paste your token between the "" quotes.
 
-9. Open your console (You should already be in your possumbot folder).
+9. Open your console go to BypassBot Directory.
 
 Type `node bot.js` into the console.
 
-The bot should now be activated.
+The bot should now be running.
 
-10. A link will be generated in the console use it to invite the bot.
+10. A link will be generated in the console use it for inviting the bot.
 -----
 
 ### Contact
